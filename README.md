@@ -1,8 +1,8 @@
-## calculo-numerico
-Esses programas foram realizados durante o 4º Semestre de Engenharia da Computação, com base nas aulas de Cálculo Númerico. Confira abaixo do que se trata cada um deles:
+## numerical calculation
+These programs were carried out during the 4th Semester of Computer Engineering, based on Numerical Calculus classes. Check out what each of them is about below:
 
-- Exercício 1 - Método das Secantes
-- Exercício 2 - Método das Tangentes
-- Exercício 3 - Regressão Linear
-- Exercício 4 - Método de Simpson
-- Exercício 5 - Interpolação
+- Exercise 1 - Secant Method
+- Exercise 2 - Tangent Method
+- Exercise 3 - Linear Regression
+- Exercise 4 - Simpson Method
+- Exercise 5 - Interpolation
